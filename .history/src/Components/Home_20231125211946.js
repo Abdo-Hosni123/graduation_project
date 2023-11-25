@@ -3,7 +3,7 @@ import NavBar from './Navbar'
 
 const Home = () => {
   return (
-    <div>
+    <div>Home
         <NavBar/>
     </div>
   )

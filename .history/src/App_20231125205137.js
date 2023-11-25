@@ -2,10 +2,10 @@ import './App.css';
 import Home from './Components/Home';
 import About from './Components/About';
 
-import Testmonial from './Components/Testmonial';
+import testmonial from './Components/testmonial';
 import Work from './Components/Work';
 import Footer from './Components/Footer';
-import Contact from './Components/Contact';
+import contact from './Components/Contact';
 
 
 function App() {
